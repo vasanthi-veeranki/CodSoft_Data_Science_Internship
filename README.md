@@ -126,4 +126,8 @@ This project was completed as part of the **CodSoft Data Science Virtual Interns
 ## Outcome
 
 This project strengthened my understanding of regression algorithms, predictive analytics, and real-world business data analysis using machine learning.
+## Task 5: Credit Card Fraud Detection
+
+In this task, I developed a Machine Learning model to detect fraudulent credit card transactions using Python. The project involved loading and exploring the dataset, checking for missing values, analyzing transaction patterns, and preparing the data for model training. A Logistic Regression algorithm was used to classify transactions as either genuine or fraudulent. The model's performance was evaluated using Accuracy, Confusion Matrix, Precision, Recall, and F1-Score. This project enhanced my understanding of data preprocessing, binary classification, model training, and evaluation techniques in Machine Learning.
+
 
